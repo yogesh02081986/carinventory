@@ -25,10 +25,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <!-- Links -->
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link" href="<?php echo base_url(); ?>index.php/manufacturer/add">Add Manufacturer</a>
+      <a class="nav-link" href="<?php echo base_url(); ?>index.php/manufacturer">Add Manufacturer</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="<?php echo base_url(); ?>index.php/car_models/add">Add Car Models</a>
+      <a class="nav-link" href="<?php echo base_url(); ?>index.php/car_models">Add Car Models</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="<?php echo base_url(); ?>index.php/inventory">View Inventory</a>
